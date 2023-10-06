@@ -4,4 +4,3 @@ Name: Srikanth Reddy
 Project ; version control test
 College ; ANMK
 Course ; MCA
-affiliated to JNTUA APPROVED BY aicte and ugc
